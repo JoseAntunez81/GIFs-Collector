@@ -1,0 +1,22 @@
+body{
+    background-image: url("assets/images/race.jpeg");
+    background-color:#cdb4d2;
+    
+}
+
+/* .container-fluid{
+   
+    background-color:#750f8a;
+} */
+.btn{
+    margin: 1%;
+    
+}
+#add_car{
+    background-color:#3f1647;
+    color: blanchedalmond;
+}
+
+#gifs-view{
+    display: inline-block;
+}
